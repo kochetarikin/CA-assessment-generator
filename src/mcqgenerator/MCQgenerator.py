@@ -18,8 +18,8 @@ llm = ChatOpenAI(openai_api_key=openai_api_key, model_name="gpt-3.5-turbo", temp
 
 quiz_generation_template = """
 Text: {text}
-You are an expert assessment maker, specializing in accounting and finance. Given the above text, create a quiz of {number} {question_type} questions for chartered accountant students registered with ICAI. 
-Ensure the questions are of a {tone} difficulty level, requiring appropriate knowledge and understanding of accounting principles. 
+You are an expert assessment maker, specializing in subject matter for which the user has uploaded the text. Try and identify the text subject matter. Given the above text, create a quiz of {number} {question_type} questions for chartered accountant students registered with ICAI. 
+Ensure the questions are of a {tone} difficulty level, requiring appropriate knowledge and understanding of said subject matter related to the text. 
 Make sure the questions are not repeated and thoroughly validate each question to ensure it conforms to the text. 
 Format your response like RESPONSE_JSON below and use it as a guide. Ensure to make {number} questions.
 
