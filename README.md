@@ -1,6 +1,5 @@
 Here's a `README.md` file that provides an overview of your project, explaining its purpose, setup, and usage.
 
-```markdown
 # Question Generator
 
 This project is a Streamlit-based application that generates different types of questions (Multiple Choice, True/False, and Descriptive) from a text document. It uses the OpenAI API to generate questions based on the content of uploaded PDF or text files, and allows users to specify the number of questions, the subject, and the complexity level.
