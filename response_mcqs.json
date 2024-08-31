@@ -1,0 +1,32 @@
+{
+    "1": {
+        "mcq": "What is the primary objective of financial accounting?",
+        "options": {
+            "a": "To ensure accurate tax reporting",
+            "b": "To provide information to management for decision-making",
+            "c": "To determine profit and loss for a period",
+            "d": "To provide financial information to external stakeholders"
+        },
+        "correct": "d"
+    },
+    "2": {
+        "mcq": "Which of the following is a fundamental principle of accounting?",
+        "options": {
+            "a": "Revenue Recognition Principle",
+            "b": "Matching Principle",
+            "c": "Consistency Principle",
+            "d": "All of the above"
+        },
+        "correct": "d"
+    },
+    "3": {
+        "mcq": "Which financial statement provides a snapshot of a company’s financial position at a specific point in time?",
+        "options": {
+            "a": "Income Statement",
+            "b": "Statement of Cash Flows",
+            "c": "Balance Sheet",
+            "d": "Statement of Retained Earnings"
+        },
+        "correct": "c"
+    }
+}

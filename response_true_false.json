@@ -1,0 +1,14 @@
+{
+    "1": {
+        "question": "True or False: According to International Financial Reporting Standards (IFRS), a company is required to adjust its financial statements for events occurring after the reporting period if the events provide additional evidence about conditions that existed at the end of the reporting period, but not for events that indicate conditions that arose after the reporting period.",
+        "correct": "True"
+    },
+    "2": {
+        "question": "True or False: Under Generally Accepted Accounting Principles (GAAP), a company can recognize revenue from the sale of goods when the goods are shipped, regardless of whether the customer has paid for the goods or not.",
+        "correct": "False"
+    },
+    "3": {
+        "question": "True or False: In accordance with the Financial Accounting Standards Board (FASB) Statement No. 123, companies are required to use a fair value method to account for stock-based compensation, which includes options granted to employees.",
+        "correct": "True"
+    }
+}
