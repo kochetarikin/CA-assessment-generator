@@ -49,7 +49,7 @@ def get_document_data(quiz_str, question_type):
                 correct = value.get("correct", "")
                 document_data += f"{index}. {question}\n"
                 for option, option_value in options.items():
-                    document_data += f"   {option}. {option_value}\n"
+                    document_data += f"\n   {option}. {option_value}\n"
                 document_data += f"\n   Correct Answer: {correct}\n\n"
 
             elif question_type == "True/False":
