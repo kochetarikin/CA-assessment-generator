@@ -1,28 +1,10 @@
 {
     "1": {
-        "context": "In the context of financial reporting for multinational corporations,",
-        "question": "discuss the challenges and considerations in implementing IFRS 16 (Leases) for a global retail company with diverse lease arrangements across different jurisdictions.",
-        "approach": "Consider the following aspects in your response:",
-        "key_points": [
-            "1. Recognition and measurement of right-of-use assets and lease liabilities",
-            "2. Impact on financial ratios and performance metrics",
-            "3. Challenges in identifying and classifying leases across different legal frameworks",
-            "4. Implications for tax reporting and compliance",
-            "5. System and process changes required for implementation"
-        ],
-        "solution": "A comprehensive solution addressing all key points and providing specific examples or case studies."
+        "question": "long description of question",
+        "solution": "long detailed description of solution"
     },
     "2": {
-        "context": "Given the increasing importance of sustainability reporting,",
-        "question": "analyze the potential impacts of the newly proposed International Sustainability Standards Board (ISSB) standards on the financial statements and disclosures of a publicly traded oil and gas company.",
-        "approach": "Your analysis should cover:",
-        "key_points": [
-            "1. Overview of the ISSB standards and their objectives",
-            "2. Specific areas of impact on financial statements (e.g., asset valuation, provisions)",
-            "3. New disclosure requirements and their implications",
-            "4. Challenges in data collection and reporting",
-            "5. Potential effects on investor perceptions and company valuation"
-        ],
-        "solution": "A detailed analysis covering all key points, including potential quantitative and qualitative impacts."
+        "question": "long description of question",
+        "solution": "long detailed description of solution"
     }
 }

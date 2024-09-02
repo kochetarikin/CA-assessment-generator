@@ -59,16 +59,10 @@ def get_document_data(quiz_str, question_type):
                 document_data += f"\n   Correct Answer: {correct}\n\n"
 
             elif question_type == "Descriptive":
-                context = value.get("context", "")
                 question = value.get("question", "")
-                approach = value.get("approach", "")
-                key_points = value.get("key_points", [])
                 solution = value.get("solution", "")
 
-                document_data += f"{index}. {context} {question}\n\n"
-                document_data += f"   {approach}\n"
-                for point in key_points:
-                    document_data += f"   {point}\n"
+                document_data += f"{index}. {question}\n\n"
                 document_data += f"\n   Answer:\n{solution}\n\n"
             
         logging.info(f"Generated document data: {document_data}")
